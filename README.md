@@ -1,4 +1,6 @@
 # hw6
+#### Google Ngram Viewer ####
+
 
 ## I.
 
@@ -8,7 +10,7 @@
 
 Parts of Speech : https://github.com/AGlukhova/hw6/blob/master/parts%20of%20speech%20tags%20round.png
 
-## II.
+## III.
 
 Corpora : https://github.com/AGlukhova/hw6/blob/master/pants_trousers_corpora.png
 
