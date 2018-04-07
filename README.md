@@ -30,10 +30,12 @@ https://github.com/AGlukhova/hw6/blob/master/rush_dash_objects.png
 дополнение только с "dash": *head* 
 
 ## III.
-Слово "award" занимает в Trends of *British National Corpus (BNC)* 5 место (trends: 2.3558). 
-Однако в *Ngram Viewer* (British English) в 2002-2008 году употребление данного слова значительно снизилось (на 0.00040%):
+Слово "award" занимает в Trends of *British National Corpus (BNC)* 5 место: https://github.com/AGlukhova/hw6/blob/master/trends_bnc.png
+В таблице мы видим, что с 1986 по 1993 частотность растет, а в 1994 претерпевает резкое падение.  
+В *Ngram Viewer* (British English) падение не наблюдается:
 https://github.com/AGlukhova/hw6/blob/master/award_ngram.png
-Резкий рост не наблюдается.
-На мой взгляд, данные в *Ngram Viewer* и *BNC* различаются из-за того, что в *Ngram Viewer* представлены данные до 2008 года включительно, хотя десятилетний период они вполне могли измениться. 
+В период с 1980-1993 в *Ngram Viewer* резкий рост не наблюдается. Наблюдается медленное падение частотности.
+Однако в *BNC* наблюдается резкий рост в данный период.  
+На мой взгляд, данные в *Ngram Viewer* и *BNC* различаются из-за того, что может различаться материал, по которому происходит исследование частотности.
 
 
