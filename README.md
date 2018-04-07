@@ -23,5 +23,10 @@ Corpora : https://github.com/AGlukhova/hw6/blob/master/pants_trousers_corpora.pn
 Самые частотных модификаторы (modifiers) существительного question: https://github.com/AGlukhova/hw6/blob/master/question.png
 
 ## II.
+"rush" & "dash" with objects:
+https://github.com/AGlukhova/hw6/blob/master/rush_dash_objects.png 
+общие дополнения : man 
+дополнение только с "rush": *stream*
+дополнение только с "dash": *head* 
 
 ## III.
