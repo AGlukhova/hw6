@@ -31,8 +31,9 @@ https://github.com/AGlukhova/hw6/blob/master/rush_dash_objects.png
 
 ## III.
 Слово "award" занимает в Trends of *British National Corpus (BNC)* 5 место (trends: 2.3558). 
-Однако в Ngram Viewer к 2008 году употребление данного слова значительно снизилось:
+Однако в *Ngram Viewer* (British English) в 2002-2008 году употребление данного слова значительно снизилось (на 0.00040%):
 https://github.com/AGlukhova/hw6/blob/master/award_ngram.png
 Резкий рост не наблюдается.
+На мой взгляд, данные в *Ngram Viewer* и *BNC* различаются из-за того, что в *Ngram Viewer* представлены данные до 2008 года включительно, хотя десятилетний период они вполне могли измениться. 
 
 
