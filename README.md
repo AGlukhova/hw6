@@ -17,3 +17,11 @@ Corpora : https://github.com/AGlukhova/hw6/blob/master/pants_trousers_corpora.pn
 **Вывод:** На графике мы видим, что слово "pants" употребляется чаще в корпусе *American English 2012*, а слово "trousers" чаще встречается в корпусе *British English 2012*. 
 
 ### Sketch Engine ###
+
+## I.
+
+Самые частотных модификаторы (modifiers) существительного question:
+
+## II.
+
+## III.
