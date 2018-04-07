@@ -30,3 +30,5 @@ https://github.com/AGlukhova/hw6/blob/master/rush_dash_objects.png
 дополнение только с "dash": *head* 
 
 ## III.
+Слово "award" занимает в Trends of *British National Corpus (BNC)* 5 место (trends: 2.3558). 
+Однако в Ngram Viewer к 2008 году употребление данного слова значительно снизилось:
