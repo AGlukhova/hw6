@@ -20,7 +20,7 @@ Corpora : https://github.com/AGlukhova/hw6/blob/master/pants_trousers_corpora.pn
 
 ## I.
 
-Самые частотных модификаторы (modifiers) существительного question:
+Самые частотных модификаторы (modifiers) существительного question: https://github.com/AGlukhova/hw6/blob/master/question.png
 
 ## II.
 
